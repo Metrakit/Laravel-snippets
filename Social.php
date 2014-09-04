@@ -233,7 +233,7 @@ class Social {
     { 
 
         // Init url
-        $url = "http://www.linkedin.com/shareArticle??mini=true";
+        $url = "http://www.linkedin.com/shareArticle?mini=true";
 
         // Incremente the url
         if (isset($params['url'])) {
